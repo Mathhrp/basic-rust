@@ -41,4 +41,3 @@ fn main() {
     println!("Display min max: {}", point3_d);
     println!("Debug min max: {:?}", point3_d);
 }
-
